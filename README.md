@@ -1,4 +1,4 @@
-<h1 align="center">Heya~ I'm Rahul Mondal 💻✨</h1>
+<h1 align="center">Hey~ I'm Rahul Mondal 💻✨</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=🧑‍💻+17+y.o+Code+Alchemist!;💼+Commerce+Student+×+Dev+Dreamer;🔥+Python+%7C+JavaScript+%7C+Java;💖+Loves+AI%2C+Bots+%26+Aesthetics" alt="Typing SVG" />
 </p>
