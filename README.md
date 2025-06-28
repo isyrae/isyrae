@@ -1,6 +1,6 @@
 <h1 align="center">Hey~ I'm Rahul Mondal 💻✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=🧑‍💻+17+y.o+Code+Alchemist!;💼+Commerce+Student+×+Dev+Dreamer;🔥+Python+%7C+JavaScript+%7C+Java;💖+Loves+AI%2C+Bots+%26+Aesthetics" alt="Typing SVG" />
+  <img src="Resources/main.png" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ### 🧰 Languages & Tools I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,flask,html,css,linux,vscode,git,github,telegram" />
+  <img src="Resources/lang-tools.svg" />
 </p>
 
 ---
