@@ -1,6 +1,6 @@
 <h1 align="center">Hey~ I'm Rahul Mondal 💻✨</h1>
 <p align="center">
-  <img src="Resources/main.png" alt="Typing SVG" />
+  <img src="resources/main.png" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ### 🧰 Languages & Tools I Love
 
 <p align="center">
-  <img src="Resources/lang-tools.svg" />
+  <img src="resources/lang-tools.svg" />
 </p>
 
 ---
