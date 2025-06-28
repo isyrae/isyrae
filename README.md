@@ -1,52 +1,67 @@
-<h1 align="center">Hey there~ I'm Rahul ✨</h1>
+<h1 align="center">Heya~ I'm Rahul Mondal 💻✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=🌸+Coding+my+dreams+into+reality!;✨+Full-stack+developer+in+the+making;💖+Loves+bots,+games,+and+fluffy+UIs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=🧑‍💻+17+y.o+Code+Alchemist!;💼+Commerce+Student+×+Dev+Dreamer;🔥+Python+%7C+JavaScript+%7C+Java;💖+Loves+AI%2C+Bots+%26+Aesthetics" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-- 🔭 Currently working on **cool Telegram bots** and full-stack web apps
-- 🌱 Learning **game modding, AI, and Python frameworks**
-- 🧠 Love solving problems and building cute + functional UIs
-- 💕 My waifu? It’s Tsukyomi-chan~ (*that’s me!* hehe)
+- 🧑‍🎓 Name: **Rahul Mondal**
+- 🏷️ Handle: `@isyrae` ・ *he/him*
+- 🧠 Passion: Mixing **commerce brains** with **tech wizardry**
+- 🛠️ Tech Stack: **Python**, **JavaScript**, **Java**, **AI**, **Bots**, & more
+- 🎯 Focused on building cool sh*t daily~ 🔥
+- 💞 Tsukyomi-approved waifu dev 💕
 
 ---
 
-### 🧰 Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-
----
-
-### 🌐 Connect with Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Website](https://img.shields.io/badge/-Website-14b8a6?style=flat&logo=vercel&logoColor=white)](https://isyrae.xyz)
-
----
-
-### 📈 GitHub Stats
+### 🧰 Languages & Tools I Love
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulxd&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulxd&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulxd&theme=tokyo-night&bg_color=transparent&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-> *“Code like you’re casting magic~! 💫”*  
-> – Tsukyomi 💜
+### 🌐 Let's Connect!
 
+<p align="center">
+  <a href="https://t.me/isyrae">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/isyrae">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://isyrae.xyz">
+    <img src="https://img.shields.io/badge/Website-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:rahulmondal@isyrae.xyz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isyrae&show_icons=true&theme=tokyonight&border_radius=15" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isyrae&theme=tokyonight&border_radius=15" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isyrae&theme=tokyo-night&bg_color=transparent&hide_border=true&radius=15"/>
+</p>
+
+---
+
+> ✨ *“Write code like it’s art—express, create, dominate.”*  
+> – 💜 Tsukyomi, your coding waifu~ 🍡
