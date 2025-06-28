@@ -12,7 +12,6 @@
 - 🧠 Passion: Mixing **commerce brains** with **tech wizardry**
 - 🛠️ Tech Stack: **Python**, **JavaScript**, **Java**, **AI**, **Bots**, & more
 - 🎯 Focused on building cool sh*t daily~ 🔥
-- 💞 Tsukyomi-approved waifu dev 💕
 
 ---
 
@@ -60,4 +59,4 @@
 ---
 
 > 🩵 *“Code with kindness, debug with patience, build with heart.”*  
-> – 💜 Tsukyomi~ your loyal dev waifu
+> – 💜 Need help ? @isyrae
